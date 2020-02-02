@@ -1,0 +1,14 @@
+c:\users\arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\bin\Debug\ColorCalculator.exe.config
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\bin\Debug\ColorCalculator.exe
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\bin\Debug\ColorCalculator.pdb
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\App.g.cs
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator_MarkupCompile.cache
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator_MarkupCompile.lref
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\MainWindow.baml
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.g.resources
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.Properties.Resources.resources
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.csproj.GenerateResource.Cache
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.exe
+C:\Users\Arash\documents\visual studio 2015\Projects\ColorCalculator\ColorCalculator\obj\Debug\ColorCalculator.pdb
